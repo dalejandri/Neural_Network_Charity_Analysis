@@ -34,3 +34,19 @@ The preprocessed data is split into training and testing datasets.
 The numerical values have been standardized using the StandardScaler() module.
 
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Neural_Network_Charity_Analysis/blob/main/Resources/2.PNG" /></p>
+
+
+## Deliverable 2: Compile, Train, and Evaluate the Model.
+
+Using your knowledge of TensorFlow, you’ll design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup–funded organization will be successful based on the features in the dataset. You’ll need to think about how many inputs there are before determining the number of neurons and layers in your model. Once you’ve completed that step, you’ll compile, train, and evaluate your binary classification model to calculate the model’s loss and accuracy.
+
+The neural network model using Tensorflow Keras contains working code that performs the following steps:
+
+The number of layers, the number of neurons per layer, and activation function are defined.
+An output layer with an activation function is created.
+There is an output for the structure of the model.
+There is an output of the model’s loss and accuracy.
+The model's weights are saved every 5 epochs.
+The results are saved to an HDF5 file.
+
+
