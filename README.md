@@ -47,6 +47,9 @@ An output layer with an activation function is created.
 There is an output for the structure of the model.
 There is an output of the model’s loss and accuracy.
 The model's weights are saved every 5 epochs.
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Neural_Network_Charity_Analysis/blob/main/Resources/4.PNG" /></p>
+
 The results are saved to an HDF5 file.
 
 
