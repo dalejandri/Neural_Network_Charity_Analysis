@@ -50,3 +50,4 @@ The model's weights are saved every 5 epochs.
 The results are saved to an HDF5 file.
 
 
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Neural_Network_Charity_Analysis/blob/main/Resources/3.PNG" /></p>
