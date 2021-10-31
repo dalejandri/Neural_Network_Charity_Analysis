@@ -25,3 +25,12 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 Using  Pandas and the Scikit-Learn’s StandardScaler() to preprocess the dataset in order to compile, train, and evaluate the neural network model later in Deliverable 2
 
+The following preprocessing steps have been performed:
+The EIN and NAME columns have been dropped.
+The columns with more than 10 unique values have been grouped together.
+The categorical variables have been encoded using one-hot encoding.
+The preprocessed data is split into features and target arrays.
+The preprocessed data is split into training and testing datasets.
+The numerical values have been standardized using the StandardScaler() module.
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Neural_Network_Charity_Analysis/blob/main/Resources/2.PNG" /></p>
