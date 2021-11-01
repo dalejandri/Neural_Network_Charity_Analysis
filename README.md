@@ -54,3 +54,14 @@ The results are saved to an HDF5 file.
 
 
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Neural_Network_Charity_Analysis/blob/main/Resources/3.PNG" /></p>
+
+## Deliverable 3: Optimize the Model
+
+The model is optimized, and the predictive accuracy is increased to over 75%, or there is working code that makes three attempts to increase model performance using the following steps:
+Noisy variables are removed from features.
+Additional neurons are added to hidden layers .
+Additional hidden layers are added.
+The activation function of hidden layers or output layers is changed for optimization .
+The model's weights are saved every 5 epochs .
+The results are saved to an HDF5 file .
+
